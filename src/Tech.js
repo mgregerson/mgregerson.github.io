@@ -3,7 +3,9 @@ import "./Tech.css";
 function Tech() {
   return (
     <div className="Tech mt-5">
-      <div id="Tech-title" className="Tech-title">Tech</div>
+      <div id="Tech-title" className="Tech-title">
+        Tech
+      </div>
       <div className="Tech-body">
         <div className="Tech-tech-stack">
           <div className="Tech-intro text-start text-white">
@@ -93,7 +95,7 @@ function Tech() {
                 <td></td>
               </tr>
             </tbody>
-            <div className="Tech-end">></div>
+            <div className="Tech-end"></div>
           </table>
         </div>
       </div>

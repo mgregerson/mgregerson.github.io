@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   margin: 0 auto;
+  font-family: "Arvo", serif;
 }
 
 .App-logo {
@@ -42,6 +43,6 @@ body {
   background-color: #1b1b3a;
 }
 
-.content {
+.App-content {
   margin-top: 80px;
 }
