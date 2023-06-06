@@ -1,0 +1,15 @@
+.Title {
+  margin: 0 auto;
+  max-width: 800px;
+  background-color: rgb(40, 40, 85);
+  border-radius: 5px 5px 30px 30px;
+}
+
+img {
+  border-radius: 5px 5px 30px 30px;
+}
+
+.Title.card-text {
+  font-size: 58px;
+  color: white;
+}

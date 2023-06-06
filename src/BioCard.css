@@ -1,0 +1,33 @@
+.BioCard {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.BioCard-facts {
+  padding: 20px;
+  background-color: rgb(40, 40, 85);
+  border-radius: 5px 5px 30px 30px;
+  line-height: 1.5;
+}
+
+.BioCard-Title {
+  font-size: 160px;
+  margin-bottom: -66px;
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(40, 40, 85);
+  display: flex;
+  -webkit-box-pack: end;
+  justify-content: end;
+}
+
+@media (max-width: 760px) {
+  .BioCard-Title {
+    font-size: 40px;
+    margin-bottom: -16px;
+  }
+} 
+
+
+
+

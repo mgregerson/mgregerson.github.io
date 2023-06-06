@@ -1,23 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Nav from "./Nav";
+import { useState } from "react";
+import RoutesList from "./RoutesList";
+import { BrowserRouter } from "react-router-dom";
+import BioCard from "./BioCard";
+import Tech from "./Tech";
+import Resume from "./Resume";
+import Projects from "./Projects";
+import Title from "./Title";
 
 function App() {
+  const [introStatus, setIntroStatus] = useState(true);
+
+  
+
+
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Nav />
+        <div className="content">
+          
+          <Title />
+          <BioCard />
+          <Tech />
+          <Resume />
+          <Projects />
+        </div>
+      </BrowserRouter>
     </div>
   );
 }
