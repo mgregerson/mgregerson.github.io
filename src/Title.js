@@ -34,7 +34,10 @@ function Title({ showPage }) {
                 </a>
               </li>
               <li className="Title-link">
-                <a href="#BioCard-title" onClick={showPage}>
+                <a
+                  href="https://docs.google.com/document/d/1xgLvpDiG797oAkFqP3fAC2Lx6LMw48jwceiY7PgD_3o/preview"
+                  className="navbar-link"
+                >
                   Resume
                 </a>
               </li>
