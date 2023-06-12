@@ -34,10 +34,7 @@ function Title({ showPage }) {
                 </a>
               </li>
               <li className="Title-link">
-                <a
-                  href="https://docs.google.com/document/d/1xgLvpDiG797oAkFqP3fAC2Lx6LMw48jwceiY7PgD_3o/preview"
-                  className="navbar-link"
-                >
+                <a href="https://docs.google.com/document/d/1xgLvpDiG797oAkFqP3fAC2Lx6LMw48jwceiY7PgD_3o/preview">
                   Resume
                 </a>
               </li>
