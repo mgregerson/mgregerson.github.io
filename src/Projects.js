@@ -3,7 +3,9 @@ import "./Projects.css";
 function Projects() {
   return (
     <div className="Projects">
-      <div id="Projects-title" className="Projects-title">Projects</div>
+      <div id="Projects-title" className="Projects-title">
+        Projects
+      </div>
       <div id="Projects-info" className="Projects text-white container">
         <div className="Projects-project-list">
           <div className="Projects-project">
@@ -22,21 +24,24 @@ function Projects() {
               </div>
               <div className="Projects-links">
                 <div>
-                  <a href="https://jobberthehutt-mg.surge.sh/" target="_blank">
+                  <a
+                    href="https://calvin-and-jobbes-mg.surge.sh/"
+                    target="_blank"
+                  >
                     Website
                   </a>
                 </div>
                 <div>
                   <a
-                    href="https://github.com/mgregerson/react-jobly"
+                    href="https://github.com/mgregerson/calvin-and-jobbes-frontend"
                     target="_blank"
                   >
-                    Github: Frontend 
+                    Github: Frontend
                   </a>
                 </div>
                 <div>
                   <a
-                    href="https://github.com/mgregerson/jobly-backend"
+                    href="https://github.com/mgregerson/calvin-and-jobbes-backend"
                     target="_blank"
                   >
                     Github: Backend
@@ -60,12 +65,12 @@ function Projects() {
               </div>
               <div className="Projects-links">
                 <div>
-                  <a href="https://warbler-mg.onrender.com/" target="_blank">
+                  <a href="https://chirper-23.onrender.com" target="_blank">
                     Website
                   </a>
                 </div>
                 <div>
-                  <a href="https://github.com/mgregerson/warbler-mg">Github</a>
+                  <a href="https://github.com/mgregerson/chirper-mg">Github</a>
                 </div>
               </div>
             </div>
