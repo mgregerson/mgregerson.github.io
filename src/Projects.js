@@ -11,10 +11,10 @@ function Projects() {
           <div className="Projects-project">
             <img
               className="Projects-img"
-              src="https://i.imgur.com/a8uiKqo.png"
+              src="https://i.imgur.com/DE60riA.png"
             ></img>
             <div className="Projects-info">
-              <div className="Projects-name">Jobber The Hutt</div>
+              <div className="Projects-name">Calvin and Jobbes</div>
               <div className="Projects-description">
                 A job postings website in the vein of Indeed. Logged in users
                 can search for jobs to apply to, while admin users can post new
