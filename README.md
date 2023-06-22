@@ -1,14 +1,11 @@
-# Reactfolio V1.2 👩🏽‍🚀
-
-Reactfolio is a modern and customizable personal portfolio web template built using the popular React library. It provides an easy way for developers, designers, and creatives to showcase their work, skills, and achievements in a professiona and visually appealing way. With its responsive design and clean code, Reactfolio can be easily tailored to suit individual needs and preferences, making it an ideal choice for anyone looking to create a stunning online portfolio.
+# Matt's Personal Website 👩🏽‍🚀
 
 <center>
-<img src="https://i.imgur.com/ZWPO61A.jpeg" alt="Reactfolio" />
+<img src="https://i.imgur.com/6TTyToi.png" alt="Matt's Personal Website" />
 </center>
 
-Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://mgregerson-github-io.vercel.app/" target="_blank">https://mgregerson-github-io.vercel.app/</a>
 <br/>
-Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
 
 -   [Features](#-features)
 -   [Getting started](#-getting-started)
@@ -18,7 +15,6 @@ Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank
 -   [Google Analytics](#-google-analytics)
 -   [Building the React App](#-building-the-react-app)
 -   [FAQ](#-faq)
--   [Contribution](#-contribution)
 
 ## 📙 Features
 
@@ -205,7 +201,3 @@ If you are using Apache as your web server, you can insert this into your .htacc
   RewriteRule . /index.html [L]
 </IfModule>
 ```
-
-## 🌱 Contribution
-
-If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
