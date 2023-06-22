@@ -100,7 +100,7 @@
 
 	.homepage-first-area-left-side {
 		display: flex;
-		flex-direction: column; /* Changed: set direction to column */
+		flex-direction: column;
 		align-items: flex-start;
 		width: 100%;
 		order: 2;
@@ -109,13 +109,13 @@
 	.homepage-title {
 		width: 100% !important;
 		margin-top: 20px;
-		order: 2;
+		order: 3; /* Changed: Increase the order to move it below the image */
 	}
 
 	.homepage-subtitle {
 		width: 100% !important;
 		margin-top: 10px;
-		order: 3;
+		order: 4; /* Changed: Increase the order to move it below the title */
 	}
 
 	.homepage-first-area-right-side {
@@ -124,10 +124,28 @@
 	}
 
 	.homepage-image-container {
-		padding-top: 50px;
-		padding-bottom: 50px;
-		margin-left: 10px;
-		order: 1;
+		width: 100%;
+		height: auto;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		padding-top: 30px; /* Added: Optional padding for spacing */
+		padding-bottom: 30px; /* Added: Optional padding for spacing */
+	}
+
+	.homepage-image-wrapper {
+		overflow: hidden;
+		border-radius: 10%;
+		transform: rotate(3deg);
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.homepage-image-wrapper img {
+		max-width: 50%;
+		max-height: 50%;
+		border-radius: 10%;
 	}
 
 	.homepage-after-title {
