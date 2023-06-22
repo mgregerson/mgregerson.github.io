@@ -22,7 +22,7 @@ const INFO = {
 	about: {
 		title: "I'm Matt Gregerson, a full-stack software engineer, gaming nerd, and that tall guy in the way at that concert.",
 		description:
-			"I've worked on a variety of projects and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Welcome to my website! I'm a native New Englander who now calls New York City home. As a former teacher turned software engineer, I thrive on the daily challenges and continuous learning that both professions offer. Beyond my professional endeavors, I find joy in attending shows with my wife and friends, building computers for gaming, and playing sports. Whether it's the excitement of that legendary live performance, the satisfaction of optimizing software and hardware, or the thrill of friendly competition, I embrace diverse passions. If you ever feel like checking out a show, playing some Diablo IV, or just want to chat, feel free to reach out!",
 	},
 
 	articles: {},
