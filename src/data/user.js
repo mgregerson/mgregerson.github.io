@@ -32,13 +32,13 @@ const INFO = {
 			title: "Calvin and Jobbes",
 			description: `A job postings website in the vein of Indeed. Logged in users
 				can search for jobs to apply to, while admin users can post new
-				jobs. This was built with a React front-end, Flask backend, and
+				jobs. This was built with a React front-end, Express backend, and
 				a PSQL database. Authentication and security is paramount, with
 				different levels of authorization based on admin status.`,
 			logos: [
 				"https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png",
 				"https://cdn.cdnlogo.com/logos/r/85/react.svg",
-				"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
+				"https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
 				"https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png",
 			],
 			linkText: "Live Demo",
