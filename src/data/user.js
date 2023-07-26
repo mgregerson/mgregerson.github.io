@@ -84,6 +84,22 @@ const INFO = {
 			githubBackendText: "Github: Backend",
 			githubBackend: "https://github.com/mgregerson/sharebnb-flask",
 		},
+		{
+			title: "Codenames",
+			description: `Codenames: Now online! Friends can now play their favorite board game
+			online with friends! Real-time gameplay powered by Socket.IO websockets,
+			a user-friendly interface crafted using React with TypeScript, and a seamless Express API.`,
+			logos: [
+				"https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
+				"https://cdn.cdnlogo.com/logos/r/85/react.svg",
+				"https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
+				"https://cdn.icon-icons.com/icons2/2699/PNG/512/socketio_logo_icon_168806.png",
+			],
+			githubFrontendText: "Github: Frontend",
+			githubFrontend: "https://github.com/mgregerson/codenames-react",
+			githubBackendText: "Github: Backend",
+			githubBackend: "https://github.com/mgregerson/codenames-express",
+		},
 	],
 };
 

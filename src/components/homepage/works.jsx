@@ -15,6 +15,18 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
+								src="https://tapply.us/images/tapply-logo.svg"
+								alt="Tapply"
+								className="work-image"
+							/>
+							<div className="work-title">Tapply</div>
+							<div className="work-subtitle">
+								Software Engineer Intern
+							</div>
+							<div className="work-duration">2023</div>
+						</div>
+						<div className="work">
+							<img
 								src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/352/original/rslogo.png"
 								alt="Rithm School"
 								className="work-image"
@@ -25,7 +37,6 @@ const Works = () => {
 							</div>
 							<div className="work-duration">2023</div>
 						</div>
-
 						<div className="work">
 							<img
 								src="https://upload.wikimedia.org/wikipedia/commons/b/b1/NYC_DOE_Logo.png"
@@ -34,7 +45,7 @@ const Works = () => {
 							/>
 							<div className="work-title">PS 89</div>
 							<div className="work-subtitle">ESL Teacher</div>
-							<div className="work-duration">2018 - 2022</div>
+							<div className="work-duration">2015 - 2022</div>
 						</div>
 					</div>
 				}
