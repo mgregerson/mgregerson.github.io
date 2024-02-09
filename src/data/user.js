@@ -29,26 +29,19 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Calvin and Jobbes",
-			description: `A job postings website in the vein of Indeed. Logged in users
-				can search for jobs to apply to, while admin users can post new
-				jobs. This was built with a React front-end, Express backend, and
-				a PSQL database. Authentication and security is paramount, with
-				different levels of authorization based on admin status.`,
+			title: "Verba Vista",
+			description: `A multilingual messaging platform that enables users to compose messages in their native language and seamlessly translate them into a language of the other user’s choice. Built in Typescript and Next.JS, coupled with Stripe for secure payment processing and Firestore for cloud-based database management.`,
 			logos: [
-				"https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png",
+				"https://cdn-icons-png.flaticon.com/512/5968/5968381.png",
 				"https://cdn.cdnlogo.com/logos/r/85/react.svg",
-				"https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png",
-				"https://cdn.iconscout.com/icon/free/png-256/free-postgresql-11-1175122.png",
+				"https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png",
+				"https://cdn.worldvectorlogo.com/logos/next-js.svg",
 			],
 			linkText: "Live Demo",
-			link: "https://calvin-and-jobbes-mg.surge.sh/",
-			githubFrontendText: "Github: Frontend",
+			link: "https://verba-vista.vercel.app/",
+			githubFrontendText: "Github",
 			githubFrontend:
-				"https://github.com/mgregerson/calvin-and-jobbes-frontend",
-			githubBackendText: "Github: Backend",
-			githubBackend:
-				"https://github.com/mgregerson/calvin-and-jobbes-backend",
+				"https://github.com/mgregerson/verba-vista",
 		},
 		{
 			title: "Chirper",
