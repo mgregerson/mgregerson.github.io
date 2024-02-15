@@ -15,13 +15,13 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://tapply.us/images/tapply-logo.svg"
+								src="https://tapply.us/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnavbar-logo.16f411b0.webp&w=256&q=75"
 								alt="Tapply"
 								className="work-image"
 							/>
 							<div className="work-title">Tapply</div>
 							<div className="work-subtitle">
-								Software Engineer Intern
+								Associate Software Engineer
 							</div>
 							<div className="work-duration">2023</div>
 						</div>
@@ -39,13 +39,23 @@ const Works = () => {
 						</div>
 						<div className="work">
 							<img
+								src="https://media.licdn.com/dms/image/C4D0BAQH9J5zzA64YVA/company-logo_200_200/0/1660832645705/jordache_enterprises_inc_logo?e=2147483647&v=beta&t=HHwiIeZIcGEgEoMoqKb3AEbwIQSg0st8KC58lnV0Jpk"
+								alt="Jordache"
+								className="work-image"
+							/>
+							<div className="work-title">Jordache Enterprises</div>
+							<div className="work-subtitle">Web Developer</div>
+							<div className="work-duration">2020 - 2021</div>
+						</div>
+						<div className="work">
+							<img
 								src="https://upload.wikimedia.org/wikipedia/commons/b/b1/NYC_DOE_Logo.png"
-								alt="twitter"
+								alt="NYCDOE"
 								className="work-image"
 							/>
 							<div className="work-title">PS 89</div>
 							<div className="work-subtitle">ESL Teacher</div>
-							<div className="work-duration">2015 - 2022</div>
+							<div className="work-duration">2015 - 2019</div>
 						</div>
 					</div>
 				}
