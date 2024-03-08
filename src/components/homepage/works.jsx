@@ -55,7 +55,7 @@ const Works = () => {
 							/>
 							<div className="work-title">PS 89</div>
 							<div className="work-subtitle">ESL Teacher</div>
-							<div className="work-duration">2015 - 2019</div>
+							<div className="work-duration">2015 - 2020</div>
 						</div>
 					</div>
 				}
