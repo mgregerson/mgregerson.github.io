@@ -45,7 +45,7 @@ const Works = () => {
 							/>
 							<div className="work-title">Jordache Enterprises</div>
 							<div className="work-subtitle">Web Developer</div>
-							<div className="work-duration">2020 - 2021</div>
+							<div className="work-duration">2021 - 2022</div>
 						</div>
 						<div className="work">
 							<img
