@@ -15,7 +15,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="https://tapply.us/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnavbar-logo.16f411b0.webp&w=256&q=75"
+								src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/anbphcqyc9bqn5vhorog"
 								alt="Tapply"
 								className="work-image"
 							/>
